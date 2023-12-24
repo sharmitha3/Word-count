@@ -36,7 +36,8 @@ wordcount(filename)
 ### OUTPUT:
 ![image](https://github.com/sharmitha3/Word-count/assets/145974496/0ec67a4f-afb0-4e91-bf94-0084e539eb0b)
 
-![image](https://github.com/sharmitha3/Word-count/assets/145974496/5cefc961-da41-426e-8330-626864e71067)
+![image](https://github.com/sharmitha3/Word-count/assets/145974496/c79ec173-048f-4596-afd2-8f979e95b36d)
+
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
